@@ -1,4 +1,4 @@
-# <img width="1224" height="821" alt="g3" src="https://github.com/user-attachments/assets/27826277-c91b-404f-a573-3e912f2ea47d" />
+# <img width=200px height=auto alt="g3" src="https://github.com/user-attachments/assets/27826277-c91b-404f-a573-3e912f2ea47d" />
 
 Provides an easy interface for 3D roblox GUIs
 **CURRENTLY IN BETA! EXPECT BUGS**
